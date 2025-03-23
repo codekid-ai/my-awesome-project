@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "my-awesome-project",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
